@@ -22,8 +22,8 @@ Quests="*res://09.prototyping-space-adventure/Quests/QuestSingleton.tscn"
 
 [display]
 
-window/size/viewport_width=1280
-window/size/viewport_height=720
+window/size/viewport_width=300
+window/size/viewport_height=300
 window/stretch/mode="canvas_items"
 
 [editor]
